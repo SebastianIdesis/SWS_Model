@@ -7,6 +7,8 @@ These scripts use MATLAB. They were tested using MATLAB 2020a. They require addi
 
 Installation and usage: Download and unzip the directory, open MATLAB, and then navigate to wherever you downloaded the files. You can run the script from within that directory.
 
+Distance_lesion.py script was provided by https://github.com/micheleallegra
+
 For any question, contact: sebastian.idesis@gmail.com
 
 If you use this code, please cite: XXX
